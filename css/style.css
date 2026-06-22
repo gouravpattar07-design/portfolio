@@ -1,0 +1,29 @@
+.bg-common {
+    background-color: yellow;
+}
+.gap 
+{
+    padding-top:80px;
+    padding-bottom:80px;
+}
+.navbar-nav .nav-link {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: 500;
+}
+.card {
+    transition: 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-8px);
+}
+
+.card img {
+    max-height: 350px;
+    object-fit: cover;
+}
+
+.badge {
+    font-size: 14px;
+}
